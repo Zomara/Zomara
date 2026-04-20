@@ -1,4 +1,4 @@
-# Hi, I'm Zachary O'Mara 👋
+# Hi, I'm Zachary👋
 
 McMaster Engineering student. Interested in AI, software, and robotics.
 
